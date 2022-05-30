@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/inhertiance",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "stefan",
+      "email": "stefanlaiu@gremini.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    }
+  }
+}
