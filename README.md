@@ -23,12 +23,6 @@ Try avoiding inheritance where it is possible.
 Remember that Composition over inheritance is a principle we must generally strive for,
 but we do not always follow it to the book.
 
-## Hints
-- Composition over inheritance
-- Surgeries are actions/tasks
-- Doctors are performing actions
-- Surgeries can be of a certain medicine branch. Not all surgeries are taught in the same course.
-
 ## Other notes
 - Keeping the current code structure is not a must.
 
